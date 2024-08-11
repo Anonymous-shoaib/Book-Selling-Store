@@ -1,0 +1,129 @@
+[07-Aug-2024 13:57:09 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/php/header.php:23
+Stack trace:
+#0 /home2/connerld/public_html/php/header.php(23): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/php/header.php(10): getUserDetails('shoaib')
+#2 /home2/connerld/public_html/pages/admin_dashboard_1.php(32): include('/home2/connerld...')
+#3 {main}
+  thrown in /home2/connerld/public_html/php/header.php on line 23
+[07-Aug-2024 13:58:00 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/php/header.php:23
+Stack trace:
+#0 /home2/connerld/public_html/php/header.php(23): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/php/header.php(10): getUserDetails('shoaib')
+#2 /home2/connerld/public_html/pages/admin_dashboard_1.php(32): include('/home2/connerld...')
+#3 {main}
+  thrown in /home2/connerld/public_html/php/header.php on line 23
+[07-Aug-2024 14:01:43 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/php/header.php:23
+Stack trace:
+#0 /home2/connerld/public_html/php/header.php(23): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/php/header.php(10): getUserDetails('shoaib')
+#2 /home2/connerld/public_html/pages/admin_dashboard_1.php(32): include('/home2/connerld...')
+#3 {main}
+  thrown in /home2/connerld/public_html/php/header.php on line 23
+[07-Aug-2024 14:05:10 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/php/header.php:23
+Stack trace:
+#0 /home2/connerld/public_html/php/header.php(23): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/php/header.php(10): getUserDetails('shoaib')
+#2 /home2/connerld/public_html/pages/admin_dashboard_1.php(34): include('/home2/connerld...')
+#3 {main}
+  thrown in /home2/connerld/public_html/php/header.php on line 23
+[07-Aug-2024 14:06:24 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/php/header.php:23
+Stack trace:
+#0 /home2/connerld/public_html/php/header.php(23): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/php/header.php(10): getUserDetails('shoaib')
+#2 /home2/connerld/public_html/pages/admin_dashboard_1.php(36): include('/home2/connerld...')
+#3 {main}
+  thrown in /home2/connerld/public_html/php/header.php on line 23
+[07-Aug-2024 14:10:40 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/php/header.php:23
+Stack trace:
+#0 /home2/connerld/public_html/php/header.php(23): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/php/header.php(10): getUserDetails('shoaib')
+#2 /home2/connerld/public_html/pages/admin_dashboard_1.php(25): include('/home2/connerld...')
+#3 {main}
+  thrown in /home2/connerld/public_html/php/header.php on line 23
+[07-Aug-2024 14:19:51 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/php/header.php:23
+Stack trace:
+#0 /home2/connerld/public_html/php/header.php(23): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/php/header.php(10): getUserDetails('Shoaib Ahmad ')
+#2 /home2/connerld/public_html/pages/homepage.php(15): include('/home2/connerld...')
+#3 {main}
+  thrown in /home2/connerld/public_html/php/header.php on line 23
+[08-Aug-2024 00:41:30 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/php/header.php:23
+Stack trace:
+#0 /home2/connerld/public_html/php/header.php(23): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/php/header.php(10): getUserDetails('shoaib')
+#2 /home2/connerld/public_html/pages/admin_dashboard_1.php(29): include('/home2/connerld...')
+#3 {main}
+  thrown in /home2/connerld/public_html/php/header.php on line 23
+[08-Aug-2024 00:44:31 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/php/header.php:23
+Stack trace:
+#0 /home2/connerld/public_html/php/header.php(23): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/php/header.php(10): getUserDetails('shoaib')
+#2 /home2/connerld/public_html/pages/admin_dashboard_1.php(33): include('/home2/connerld...')
+#3 {main}
+  thrown in /home2/connerld/public_html/php/header.php on line 23
+[08-Aug-2024 00:49:51 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/php/header.php:23
+Stack trace:
+#0 /home2/connerld/public_html/php/header.php(23): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/php/header.php(10): getUserDetails('shoaib')
+#2 /home2/connerld/public_html/pages/admin_dashboard_1.php(38): include('/home2/connerld...')
+#3 {main}
+  thrown in /home2/connerld/public_html/php/header.php on line 23
+[08-Aug-2024 10:13:11 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/pages/admin_dashboard_1.php:54
+Stack trace:
+#0 /home2/connerld/public_html/pages/admin_dashboard_1.php(54): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/pages/admin_dashboard_1.php(41): getUserDetails('shoaib')
+#2 {main}
+  thrown in /home2/connerld/public_html/pages/admin_dashboard_1.php on line 54
+[08-Aug-2024 10:45:31 America/Chicago] PHP Parse error:  syntax error, unexpected token "exit", expecting "(" in /home2/connerld/public_html/pages/index.php on line 4
+[08-Aug-2024 10:45:31 America/Chicago] PHP Parse error:  syntax error, unexpected token "exit", expecting "(" in /home2/connerld/public_html/pages/index.php on line 4
+[09-Aug-2024 06:09:35 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/php/homepage-header.php:23
+Stack trace:
+#0 /home2/connerld/public_html/php/homepage-header.php(23): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/php/homepage-header.php(10): getUserDetails('ali')
+#2 /home2/connerld/public_html/pages/homepage.php(15): include('/home2/connerld...')
+#3 {main}
+  thrown in /home2/connerld/public_html/php/homepage-header.php on line 23
+[09-Aug-2024 06:10:53 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/php/homepage-header.php:23
+Stack trace:
+#0 /home2/connerld/public_html/php/homepage-header.php(23): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/php/homepage-header.php(10): getUserDetails('ali')
+#2 /home2/connerld/public_html/pages/homepage.php(15): include('/home2/connerld...')
+#3 {main}
+  thrown in /home2/connerld/public_html/php/homepage-header.php on line 23
+[09-Aug-2024 06:12:07 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/php/homepage-header.php:23
+Stack trace:
+#0 /home2/connerld/public_html/php/homepage-header.php(23): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/php/homepage-header.php(10): getUserDetails('ali')
+#2 /home2/connerld/public_html/pages/homepage.php(15): include('/home2/connerld...')
+#3 {main}
+  thrown in /home2/connerld/public_html/php/homepage-header.php on line 23
+[09-Aug-2024 06:19:34 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/php/homepage-header.php:23
+Stack trace:
+#0 /home2/connerld/public_html/php/homepage-header.php(23): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/php/homepage-header.php(10): getUserDetails('ali')
+#2 /home2/connerld/public_html/pages/homepage.php(15): include('/home2/connerld...')
+#3 {main}
+  thrown in /home2/connerld/public_html/php/homepage-header.php on line 23
+[09-Aug-2024 06:19:37 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home2/connerld/public_html/php/homepage-header.php:23
+Stack trace:
+#0 /home2/connerld/public_html/php/homepage-header.php(23): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'book_store')
+#1 /home2/connerld/public_html/php/homepage-header.php(10): getUserDetails('ali')
+#2 /home2/connerld/public_html/pages/homepage.php(15): include('/home2/connerld...')
+#3 {main}
+  thrown in /home2/connerld/public_html/php/homepage-header.php on line 23
+[09-Aug-2024 06:19:54 America/Chicago] PHP Warning:  include(php/homepage-header.php): Failed to open stream: No such file or directory in /home2/connerld/public_html/pages/homepage.php on line 15
+[09-Aug-2024 06:19:54 America/Chicago] PHP Warning:  include(): Failed opening 'php/homepage-header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/connerld/public_html/pages/homepage.php on line 15
+[09-Aug-2024 06:20:38 America/Chicago] PHP Warning:  include(php/homepage-header.php): Failed to open stream: No such file or directory in /home2/connerld/public_html/pages/homepage.php on line 15
+[09-Aug-2024 06:20:38 America/Chicago] PHP Warning:  include(): Failed opening 'php/homepage-header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/connerld/public_html/pages/homepage.php on line 15
+[09-Aug-2024 06:20:39 America/Chicago] PHP Warning:  include(php/homepage-header.php): Failed to open stream: No such file or directory in /home2/connerld/public_html/pages/homepage.php on line 15
+[09-Aug-2024 06:20:39 America/Chicago] PHP Warning:  include(): Failed opening 'php/homepage-header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/connerld/public_html/pages/homepage.php on line 15
+[09-Aug-2024 10:21:25 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'orders.user_id' in 'on clause' in /home2/connerld/public_html/pages/navigation.php:22
+Stack trace:
+#0 /home2/connerld/public_html/pages/navigation.php(22): mysqli->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in /home2/connerld/public_html/pages/navigation.php on line 22
+[09-Aug-2024 10:22:06 America/Chicago] PHP Warning:  Undefined variable $order in /home2/connerld/public_html/pages/navigation.php on line 26
+[09-Aug-2024 10:32:08 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/connerld/public_html/pages/login.php on line 7
+[09-Aug-2024 10:32:08 America/Chicago] PHP Warning:  Undefined array key "password" in /home2/connerld/public_html/pages/login.php on line 8
+[09-Aug-2024 10:32:13 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/connerld/public_html/pages/login.php on line 7
+[09-Aug-2024 10:32:13 America/Chicago] PHP Warning:  Undefined array key "password" in /home2/connerld/public_html/pages/login.php on line 8

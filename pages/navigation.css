@@ -1,0 +1,265 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: 50%;
+    margin: 0px auto;
+}
+
+.track-screen{
+    width: 100%;
+    background-image: url(../assets/images/map.png);
+}
+
+@media only screen and (max-width: 500px) {
+    body{
+        width: 100%;
+        
+    }
+}
+
+
+.section-1{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 100px;
+    /* background-color: red; */
+}
+
+
+
+.arrow .book-name h2{
+    font-family: poppins;
+}
+
+.navigation{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    padding: 80px;
+}
+
+.navigation .location{
+    width: 15%;
+    position: absolute;
+    top: 45px;
+    left: 203px;
+}
+
+.navigation .line{
+    width: 50%;
+}
+
+.navigation .customer{
+    width: 12%;
+    border-radius: 100px;
+    border: 3px solid orange;
+    position: absolute;
+    bottom: 30px;
+    right: 140px;
+}
+
+@media only screen and (max-width: 500px){
+    
+    .navigation .customer{
+        width: 12%;
+        border-radius: 100px;
+        border: 3px solid orange;
+        position: absolute;
+        bottom: 30px;
+        right: 120px;
+    }
+    .navigation .location{
+        width: 15%;
+        position: absolute;
+        top: 45px;
+        left: 160px;
+    }
+    
+}
+
+.section-2{
+    width: 95%;
+    margin: 0px auto;
+    font-family: poppins;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.sec1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sec1 h4{
+    font-weight: 500;
+}
+
+.sec1 h2{
+    font-weight: 600;
+}
+
+.sec3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sec3 .sec3-image{
+    width: 15%;
+}
+
+.sec3 .sec3-image img{
+    width: 80%;
+    border-radius: 100px;
+}
+
+.sec3 .sec3-info{
+    width: 55%;
+}
+
+.sec3 .sec3-info h2{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.sec3 .sec3-info h3{
+    color: orange;
+}
+
+.sec3 .sec3-icons{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+i{
+    background-color: #F18231;
+    padding: 12px;
+    border-radius: 100px;
+    color: white;
+}
+
+.sec4{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec4-1{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.sec4-icon{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.sec5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sec5 button{
+    font-family: poppins;
+    font-weight: bold;
+    border: none;
+    border-radius: 40px;
+    background-color: #F18231;
+    color: white;
+    padding: 20px 150px;
+}
+
+.tracking-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.step {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.circle1 {
+    width: 10px;
+    height: 10px;
+    border: 13px solid #F18231;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+}
+
+.circle2 {
+    width: 10px;
+    height: 10px;
+    border: 13px solid #F18231;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+}
+
+.circle3 {
+    width: 10px;
+    height: 10px;
+    border: 13px solid gray;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+}
+
+.sec2 .line1 {
+    width: 120px;
+    height: 3px;
+    background-color: #F18231;
+}
+
+.sec2 .line {
+    width: 120px;
+    height: 3px;
+    background-color: #ccc;
+}
+
+.circle.filled {
+    background-color: #4caf50;
+    border-color: #4caf50;
+}
+
+.label {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #333;
+}
+
+.tracking-details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px auto;
+    width: 90%;
+    padding-top: 15px;
+
+}
+
+.tracking-details h2{
+    font-size: 16px;
+    font-weight: 500;
+}

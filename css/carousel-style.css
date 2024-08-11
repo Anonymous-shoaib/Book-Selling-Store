@@ -1,0 +1,289 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-container {
+    position: relative;
+    max-width: 100%;
+    margin: auto;
+    overflow: hidden;
+    display: flex;
+    display: flex;
+    gap: 15px;
+}
+
+.carousel {
+    display: flex;
+    gap: 40px;
+    transition: transform 0.5s ease-in-out;
+    will-change: transform;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.carousel-item {
+    flex: 0 0 33.33%; /* Show 3 items at a time */
+    box-sizing: border-box;
+    text-align: center;
+    padding: 10px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px rgba(6, 6, 6, 0.087); 
+    position: relative;
+}
+
+.carousel-item img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+
+.rating {
+    font-size: 24px;
+    color: gold;
+    margin: 10px 0;
+}
+
+.book-details h3 {
+    margin: 10px 0;
+}
+
+.book-details p {
+    color: gray;
+}
+
+button.prev, button.next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: transparent;
+    color: coral;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 24px;
+    z-index: 10;
+}
+
+button.prev {
+    left: 0;
+}
+
+button.next {
+    right: 0;
+}
+
+
+.delete-icon {
+    position: absolute;
+    top: 10px;
+    right: 40px;
+    background: white;
+    color: coral;
+    border: 2px solid coral;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+
+
+
+.carousel-container-2 {
+    position: relative;
+    max-width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.carousel-2 {
+    display: flex;
+    gap: 40px;
+    transition: transform 0.5s ease-in-out;
+    will-change: transform;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.carousel-item-2 {
+    flex: 0 0 33.33%; /* Show 3 items at a time */
+    box-sizing: border-box;
+    text-align: center;
+    padding: 10px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px rgba(6, 6, 6, 0.087); 
+    position: relative;
+}
+
+.carousel-item-2 img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+
+.rating-2 {
+    font-size: 24px;
+    color: gold;
+    margin: 10px 0;
+}
+
+.book-details-2 h3 {
+    margin: 10px 0;
+}
+
+.book-details-2 p {
+    color: gray;
+}
+
+button.prev-2, button.next-2 {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: transparent;
+    color: coral;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 24px;
+    z-index: 10;
+}
+
+button.prev-2 {
+    left: 0;
+}
+
+button.next-2 {
+    right: 0;
+}
+
+
+.delete-icon-2 {
+    position: absolute;
+    top: 10px;
+    right: 40px;
+    background: white;
+    color: coral;
+    border: 2px solid coral;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+
+
+
+
+
+
+.carousel-container-3 {
+    position: relative;
+    max-width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.carousel-3 {
+    display: flex;
+    gap: 40px;
+    transition: transform 0.5s ease-in-out;
+    will-change: transform;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.carousel-item-3 {
+    flex: 0 0 33.33%; /* Show 3 items at a time */
+    box-sizing: border-box;
+    text-align: center;
+    padding: 10px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px rgba(6, 6, 6, 0.087); 
+    position: relative;
+}
+
+.carousel-item-3 img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+
+.rating-3 {
+    font-size: 24px;
+    color: gold;
+    margin: 10px 0;
+}
+
+.book-details-3 h3 {
+    margin: 10px 0;
+}
+
+.book-details-3 p {
+    color: gray;
+}
+
+button.prev-3, button.next-3 {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: transparent;
+    color: coral;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 24px;
+    z-index: 10;
+}
+
+button.prev-3 {
+    left: 0;
+}
+
+button.next-3 {
+    right: 0;
+}
+
+
+.delete-icon-3 {
+    position: absolute;
+    top: 10px;
+    right: 40px;
+    background: white;
+    color: coral;
+    border: 2px solid coral;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.carousel-container {
+    display: flex;
+}

@@ -1,0 +1,532 @@
+
+.container-1 {
+  width: 28.4px;
+  height: 11.1px;
+}
+.book-deatils .time-light {
+  border-radius: 20px;
+  margin: 1px 0 1.9px 0;
+  display: flex;
+  width: 54px;
+  height: 21px;
+  box-sizing: border-box;
+}
+.book-deatils .network-signal-light {
+  margin-right: 4px;
+  width: 20px;
+  height: 14px;
+}
+.book-deatils .wi-fi-signal-light {
+  margin-right: 4px;
+  width: 16px;
+  height: 14px;
+}
+.book-deatils .battery-light {
+  width: 25px;
+  height: 14px;
+}
+.book-deatils .status-icons {
+  display: flex;
+  flex-direction: row;
+  width: 69px;
+  box-sizing: border-box;
+}
+.book-deatils .status-bar {
+  margin: 0 14px 19px 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 49px);
+  box-sizing: border-box;
+}
+.book-deatils .vector {
+  opacity: 0.997;
+  width: 16.6px;
+  height: 2.8px;
+}
+.book-deatils .group {
+  margin-bottom: 3px;
+  display: flex;
+  width: 16.6px;
+  height: 2.8px;
+  box-sizing: border-box;
+}
+.book-deatils .vector-1 {
+  opacity: 0.997;
+  width: 16.6px;
+  height: 2.8px;
+}
+.book-deatils .group-1 {
+  margin-bottom: 3px;
+  display: flex;
+  width: 16.6px;
+  height: 2.8px;
+  box-sizing: border-box;
+}
+.book-deatils .vector-2 {
+  opacity: 0.997;
+  width: 16.6px;
+  height: 2.8px;
+}
+.book-deatils .group-2 {
+  display: flex;
+  width: 16.6px;
+  height: 2.8px;
+  box-sizing: border-box;
+}
+.book-deatils .group-1171276968 {
+  margin: 10px 0 2.6px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 16.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.book-deatils .book-name {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.519;
+  color: #000000;
+}
+.book-deatils .container-8 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 230.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.book-deatils .vector-10 {
+  width: 6.5px;
+  height: 15.8px;
+}
+.book-deatils .arrow-left {
+  position: absolute;
+  left: 7.2px;
+  top: 5.1px;
+  display: flex;
+  width: 22px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.book-deatils .container-11 {
+  position: relative;
+  margin: 0 20px 15px 20px;
+  display: flex;
+  align-self: flex-start;
+  width: 230.6px;
+  box-sizing: border-box;
+}
+.book-deatils .objects {
+  width: 234.9px;
+  height: 344px;
+}
+.book-deatils .book {
+  margin: 0 0 8px 0.9px;
+  display: flex;
+  align-self: center;
+  width: 234.9px;
+  height: 344px;
+  box-sizing: border-box;
+}
+.book-deatils .ellipse-322 {
+  filter: blur(5.2px);
+  margin: 0 0 13px 1px;
+  align-self: center;
+  width: 295px;
+  height: 11px;
+}
+.book-deatils .search-for {
+  margin-right: 9px;
+  width: 74px;
+  overflow-wrap: break-word;
+  font-family: 'Open Sans';
+  font-weight: 600;
+  font-size: 13px;
+  color: #F18231;
+}
+.book-deatils .search-for-1 {
+  overflow-wrap: break-word;
+  font-family: 'Open Sans';
+  font-weight: 600;
+  font-size: 13px;
+  color: #B4B4B4;
+}
+.book-deatils .search-for-2 {
+  overflow-wrap: break-word;
+  font-family: 'Open Sans';
+  font-weight: 600;
+  font-size: 13px;
+  color: #B4B4B4;
+}
+.book-deatils .container-6 {
+  /* margin: 0 11.2px 7px 0; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  /* width: 296.8px; */
+  color: gray;
+  box-sizing: border-box;
+}
+.book-deatils .vector-1 {
+  background: #F18231;
+  margin: 0 20px 11px 20px;
+  align-self: flex-start;
+  width: 115px;
+  height: 0px;
+}
+.book-deatils .book-name-1 {
+  margin-right: 8px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1;
+  color: #06070D;
+}
+.book-deatils .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 0.667;
+  color: #06070D;
+}
+.book-deatils .container-9 {
+  margin: 0 20.5px 7px 23.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 43.9px);
+  box-sizing: border-box;
+}
+.book-deatils .star {
+  border-radius: 0.5px;
+  width: 13.2px;
+  height: 13.3px;
+}
+.book-deatils .star-1 {
+  border-radius: 0.5px;
+  width: 13.2px;
+  height: 13.3px;
+}
+.book-deatils .star-2 {
+  border-radius: 0.5px;
+  width: 13.2px;
+  height: 13.3px;
+}
+.book-deatils .star-3 {
+  border-radius: 0.5px;
+  width: 13.2px;
+  height: 13.3px;
+}
+.book-deatils .star-4 {
+  border-radius: 0.5px;
+  width: 13.2px;
+  height: 13.3px;
+}
+.book-deatils .group-1000005436 {
+  border-radius: 0.5px;
+  margin: 0 20px 14.7px 20px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 1.8px;
+  width: 73.2px;
+  box-sizing: border-box;
+}
+.book-deatils .lorem-ipsumis-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500-swhen-an-unknown-printer-took-agalley-of-type-and-scrambled-it-to-make-atype-specimen-book {
+  margin: 0 24.4px 10px 21px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #848484;
+}
+.book-deatils .add-to-cart-150 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  margin: 0px auto;
+}
+.book-deatils .container-10 {
+  box-shadow: 0px 7px 8.4px 0px rgba(241, 130, 49, 0.16);
+  border-radius: 30px;
+  background: #F18231;
+  position: relative;
+  margin: 0 25px 17px 15px;
+  display: flex;
+  padding: 10px;
+  width: calc(100% - 40px);
+  box-sizing: border-box;
+}
+.rectangle-24 {
+  border-radius: 100px;
+  background: #000000;
+  position: absolute;
+  left: 50%;
+  bottom: 12px;
+  translate: -50% 0;
+  width: 134px;
+  height: 5px;
+}
+.vector-3 {
+  margin: 0 7.6px 6px 6.6px;
+  width: 17px;
+  height: 17px;
+}
+ .home {
+  overflow-wrap: break-word;
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-size: 9px;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  color: #202244;
+}
+.book-deatils .container {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  box-sizing: border-box;
+}
+ .fill-1 {
+  margin: 0 3.9px 5px 3.9px;
+  width: 18px;
+  height: 20px;
+}
+.my-courses {
+  overflow-wrap: break-word;
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-size: 9px;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  color: #202244;
+}
+.container-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.group-11712769911{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.st-july-20241{
+  font-size: 12px;
+  color: #848484;
+}
+
+.container{
+  display: flex;
+}
+
+.profile-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.profile-image {
+  width: 50px; /* Adjust size as needed */
+  height: 50px; /* Adjust size as needed */
+  border-radius: 50%;
+  border: 2px solid #000; /* Optional: Add border */
+  object-fit: cover; /* Ensure the image covers the area */
+}
+
+
+.container-3 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+ .huge-iconinterfaceoutlinehome-04 {
+  width: 24px;
+  height: 24px;
+}
+ .group-1171276972 {
+  border-radius: 23px;
+  background: #F18231;
+  position: relative;
+  
+  display: flex;
+  padding: 11px;
+  width: 46px;
+  height: 46px;
+  box-sizing: border-box;
+}
+ .huge-iconuseroutlineuser-circle {
+  margin: 0 12.5px 5px 12.5px;
+  width: 20px;
+  height: 20px;
+}
+ .transaction {
+  overflow-wrap: break-word;
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-size: 9px;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  color: #202244;
+}
+.container-7 {
+  margin: 5px 31.9px 4px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+ .fill-11 {
+  margin: 0 11.6px 5px 11.6px;
+  width: 16px;
+  height: 20px;
+}
+.book-deatils .profile {
+  overflow-wrap: break-word;
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-size: 9px;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  color: #202244;
+}
+.book-deatils .container-1 {
+  margin: 5px 0 4px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.container-5 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.container-2 {
+  box-shadow: 0px -3px 19.2px 0px rgba(45, 94, 100, 0.15);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 18px 25.4px 18px 24.4px;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-1171276977 {
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+}
+.book-deatils {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-top: 16px;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+  font-family: poppins;
+}
+
+
+.container-6 {
+  display: flex;
+  gap: 20px;
+}
+
+.tab {
+  cursor: pointer;
+  padding: 10px;
+  position: relative;
+}
+
+.tab:hover{
+  color: #F18231;
+}
+
+.tab.active::after {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 2px;
+  color: #F18231;
+  background: orange;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.content {
+  display: none;
+  margin-top: 20px;
+  
+}
+
+.content.active {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  gap: 20px;
+}
+
+
+.container-16{
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+  gap: 20px;
+}
+
+.reviews{
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.group-1171276992{
+  padding: 20px;
+  border: 1px solid gray;
+  border-radius: 20px;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
